@@ -1,0 +1,32 @@
+h1{
+    box-shadow: 2px 3px rgb(56, 119, 182);
+}
+
+p{
+    color: rgb(0, 255, 34);
+}
+.btn{
+    color: green;
+    border: none;
+    border-radius: 30px;
+    background-color: burlywood;
+}
+.btn:hover{
+    background-color: chartreuse;
+    font-size: 2rem;
+}
+
+
+#btn{
+    padding: 2px;
+    margin: 3px;
+}
+
+h1:hover{
+    color: rgb(132, 0, 255);
+}
+p:hover{
+    color: aliceblue;
+}
+
+/* comments */ 
